@@ -1,0 +1,6 @@
+1. install pandas
+
+ uv add pandas
+ symc the project
+
+2.
